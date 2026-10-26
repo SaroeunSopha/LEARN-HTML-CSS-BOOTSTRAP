@@ -1,0 +1,45 @@
+.card{
+    width: 400px;
+    height: 600px;
+    background-color: white;
+    border-radius: 20px;
+    border: 2px solid black;
+    position: relative;
+    top: 50px;
+    left: 35%;
+}
+
+.top{
+    width: 380px;
+    height: 400px;
+    background-color: gray;
+    border-radius: 20px;
+    border: 2px solid black;
+    position: absolute;
+    top: 5px;
+    left: 10px;
+    
+}
+
+.body{
+    padding: ;
+}
+.name {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    cursor: pointer;
+}
+.name input {
+    accent-color: #6366f1;
+    width: 16px;
+    height: 16px;
+    cursor: pointer;
+}
+.button {
+    color: rgba(220, 8, 8, 0.8);
+    text-decoration: none;
+}
+.button:hover {
+    text-decoration: underline;
+}

@@ -1,0 +1,51 @@
+.layout{
+    border: 0;
+    width: 400px;
+    margin: auto;
+}
+
+.head{
+    border: 0px;
+    width: 100%;
+    height: 250px;
+    border-radius: 0 0 20px 20px;
+    position: relative;
+}
+
+.imgcover{
+    width: 100%;
+    border-radius: 0 0 20px 20px;
+    
+}
+
+.imgprofile{
+    width: 30%;
+    border-radius: 100%;
+    border: 2px solid white;
+}
+
+.profile{
+    position: absolute;
+    top: 90%;
+    left: 40%;
+    border: 2px solid blue;
+    border-radius: 100%;
+}
+
+.active{
+    width: 20px;
+    height: 20px;
+    background-color: rgb(9, 246, 9);
+    position: absolute;
+    border-radius: 100%;
+    left:21%;
+    bottom: 6%;
+}
+
+
+.body{
+    border: 0px;
+    background-color: white;
+    width: 100%;
+    height: 600px;
+}

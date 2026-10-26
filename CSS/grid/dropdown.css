@@ -1,0 +1,28 @@
+body{
+    padding: o;
+    margin: o;
+}
+
+.dropdown{
+    position: relative;
+    display: inline-block;
+}
+
+.dropdown-contain{
+    display: none;
+    position: absolute;
+    z-index: 1;
+}
+
+.dropdown:hover .dropdown-contain{
+    position: absolute;
+    display: block;
+}
+
+.dropbtn{
+    color: blue;
+}
+
+.dropbtn:hover{
+    color: red;
+}

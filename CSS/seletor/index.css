@@ -1,0 +1,44 @@
+.form{
+    width: 25%;
+    padding: 5px 30px 10px 30px;
+    background-color: rgba(255, 192, 203, 0.47);
+    margin: 150px auto;
+    border-radius: 20px;
+
+}
+
+.form h1{
+    color: pink;
+    text-shadow: 0 1px black;
+    text-align: center;
+}
+
+.form label{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 25px;
+    color: rgba(0, 255, 123, 0.495);
+    
+}
+
+.form .label2{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 25px;
+    color: rgba(0, 255, 0, 0.495);
+    
+}
+
+.form input{
+    width: 98%;
+    border-radius: 10px;
+    border: none;
+    font-size: 20px;
+    background-color: rgba(68, 57, 57, 0.274);
+    
+
+}
+
+body{
+    background-image: url('https://i.pinimg.com/736x/72/c8/08/72c808b32e55134415a037c92c53cb7e.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
