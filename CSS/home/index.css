@@ -52,6 +52,10 @@
             padding: 5px 10px;
         }
 
+        .brand-btn:hover {
+            transform: scale(1.05);
+        }
+
         .Brand-list {
             background-color: aliceblue;
             border: 1px solid gainsboro;
